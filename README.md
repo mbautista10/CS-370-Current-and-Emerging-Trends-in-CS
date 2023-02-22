@@ -1,5 +1,5 @@
 
-**Explanation of the work done on this project. **
+**Explanation of the work done on this project**
 
 *What code were you given? What code did you create yourself?*
 
